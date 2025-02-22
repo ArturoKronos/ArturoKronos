@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋  soy Arturo Kronos Fernández Curiel </h1> 
 
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952zi6wz8sv65gpyqqctresxjpsww68tqdgw2pb028t&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="foto" width="500px">
+
 <p align="left">
 <a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://www.linkedin.com/in/arturo-kronos-fern%C3%A1ndez-curiel-b010a8292/" alt="unsimpledev"/></a>
   </p>
