@@ -4,7 +4,8 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/arturo-kronos-fern%C3%A1ndez-curiel-b010a8292/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-  </p>
+  <a href = "mailto:arturokronos05@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+</p>
   
 <br>
 <h2>Sobre mi 😃</h2>
