@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋  soy Arturo Kronos Fernández Curiel </h1> 
 
-<img src="" alt="foto" width="500px">
+![banner](img/banner(2).png)
 
 <p align="left">
 <a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://www.linkedin.com/in/arturo-kronos-fern%C3%A1ndez-curiel-b010a8292/" alt="unsimpledev"/></a>
