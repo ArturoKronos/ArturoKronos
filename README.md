@@ -4,7 +4,8 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/arturo-kronos-fern%C3%A1ndez-curiel-b010a8292/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-  <a href = "mailto:arturokronos05@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href = "mailto:arturokronos05@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://www.instagram.com/arturo_k_?igsh=N2NjZ3g2bnZ1b2Qw&utm_source=qr" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@arturo_k_" /></a>
 </p>
   
 <br>
