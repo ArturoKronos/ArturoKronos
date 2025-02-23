@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Arturo Kronos Fernández Curiel </h1> 
+<h1 align="center">Hola 🇪🇸 soy Arturo Kronos Fernández Curiel </h1> 
 
 ![banner](img/banner(2).png)
 
